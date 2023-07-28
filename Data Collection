@@ -1,0 +1,13 @@
+Data Collection for Training and Testing of Model: 
+
+Brain Tumors are complex. There are many abnormalities in 
+the size and location of the brain tumor(s). This makes it 
+really difficult to completely understand the nature of the 
+tumor.
+
+I collected data from Kaggle, below are the references of 
+websites: 
+
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumorclassification-mri
+
+https://www.kaggle.com/code/loaiabdalslam/brain-tumormri-classification-vgg16/data
